@@ -3,4 +3,4 @@
 
 [React hook tutorial](https://github.com/puxiao/react-hook-tutorial)
 
-[Recoil tutorial]([https://github.com/puxiao/react-hook-tutorial](https://github.com/puxiao/recoil-tutorial)
+[Recoil tutorial](https://github.com/puxiao/react-hook-tutorial](https://github.com/puxiao/recoil-tutorial)
